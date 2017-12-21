@@ -59,25 +59,5 @@ namespace kursach.Properties {
                 resourceCulture = value;
             }
         }
-        
-        /// <summary>
-        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap _250px_Flag_of_Russia_svg {
-            get {
-                object obj = ResourceManager.GetObject("250px-Flag_of_Russia.svg", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap _250px_Flag_of_Ukraine_svg {
-            get {
-                object obj = ResourceManager.GetObject("250px-Flag_of_Ukraine.svg", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
     }
 }

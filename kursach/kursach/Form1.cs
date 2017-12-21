@@ -12,19 +12,49 @@ namespace kursach
 {
     public partial class Form1 : Form
     {
+
+        int raz = 0;
+        int dva = 0;
+
         public Form1()
         {
             InitializeComponent();
+            radioButton1.Checked = true;
+        }
+
+      public int slojenie(int raz, int dva)
+        {
+
+            return raz+dva;
+        }
+
+        public int ymnojenie(int raz, int dva)
+        {
+
+            return raz * dva;
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            pictureBox1.BackgroundImage = Properties.Resources._250px_Flag_of_Ukraine_svg;
-        }
+            if (textBox1.Text == "" || textBox2.Text == "")
+            {
+                MessageBox.Show("Оба поля долны быть не пустые!");
+                return;
+            }
 
-        private void button2_Click(object sender, EventArgs e)
-        {
-            pictureBox1.BackgroundImage = Properties.Resources._250px_Flag_of_Russia_svg;
+            raz = Convert.ToUInt16(textBox1.Text);
+            dva = Convert.ToUInt16(textBox2.Text);
+
+            if (radioButton1.Checked == true)
+            {
+                textBox3.Text = slojenie(raz, dva).ToString();
+            }
+
+            if (radioButton2.Checked == true)
+            {
+                textBox3.Text = ymnojenie(raz, dva).ToString();
+            }
+
         }
     }
 }

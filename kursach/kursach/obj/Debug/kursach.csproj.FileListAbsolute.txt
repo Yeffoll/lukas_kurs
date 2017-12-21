@@ -10,3 +10,9 @@ G:\Библиотеки\Документы\Dropbox\Ycheba i ebota\4 Курс\К�
 G:\Библиотеки\Документы\Dropbox\Ycheba i ebota\4 Курс\Лукас\kurs_lukas\kursach\kursach\bin\Debug\kursach.exe.config
 G:\Библиотеки\Документы\Dropbox\Ycheba i ebota\4 Курс\Лукас\kurs_lukas\kursach\kursach\obj\Debug\kursach.exe
 G:\Библиотеки\Документы\Dropbox\Ycheba i ebota\4 Курс\Лукас\kurs_lukas\kursach\kursach\obj\Debug\kursach.pdb
+G:\Библиотеки\Документы\Dropbox\Ycheba i ebota\4 Курс\Лукас\kurs_lukas\kursach\kursach\obj\Debug\kursach.Form1.resources
+G:\Библиотеки\Документы\Dropbox\Ycheba i ebota\4 Курс\Лукас\kurs_lukas\kursach\kursach\obj\Debug\kursach.csproj.GenerateResource.Cache
+G:\Библиотеки\Документы\Dropbox\Ycheba i ebota\4 Курс\Лукас\kurs_lukas\kursach\kursach\bin\Debug\kursach.exe
+G:\Библиотеки\Документы\Dropbox\Ycheba i ebota\4 Курс\Лукас\kurs_lukas\kursach\kursach\bin\Debug\kursach.pdb
+G:\Библиотеки\Документы\Dropbox\Ycheba i ebota\4 Курс\Лукас\kurs_lukas\kursach\kursach\obj\Debug\kursach.Properties.Resources.resources
+G:\Библиотеки\Документы\Dropbox\Ycheba i ebota\4 Курс\Лукас\kurs_lukas\kursach\kursach\obj\Debug\kursach.csprojResolveAssemblyReference.cache
