@@ -32,9 +32,9 @@ Name: "russian"; MessagesFile: "compiler:Languages\Russian.isl"
 Name: "desktopicon"; Description: "{cm:CreateDesktopIcon}"; GroupDescription: "{cm:AdditionalIcons}"; Flags: unchecked
 
 [Files]
-Source: "G:\Библиотеки\Документы\Dropbox\Ycheba i ebota\4 Курс\Лукас\test\lukas_kurs\kursach\kursach\bin\Release\kursach.exe"; DestDir: "{app}"; Flags: ignoreversion
-Source: "G:\Библиотеки\Документы\Dropbox\Ycheba i ebota\4 Курс\Лукас\test\lukas_kurs\kursach\kursach\bin\Release\kursach.exe.config"; DestDir: "{app}"; Flags: ignoreversion
-Source: "G:\Библиотеки\Документы\Dropbox\Ycheba i ebota\4 Курс\Лукас\test\lukas_kurs\kursach\kursach\bin\Release\kursach.pdb"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Users\Дмитрий\Dropbox\Ycheba i ebota\4 Курс\Лукас\test\lukas_kurs\kursach\kursach\bin\Release\kursach.exe"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Users\Дмитрий\Dropbox\Ycheba i ebota\4 Курс\Лукас\test\lukas_kurs\kursach\kursach\bin\Release\kursach.exe.config"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\Users\Дмитрий\Dropbox\Ycheba i ebota\4 Курс\Лукас\test\lukas_kurs\kursach\kursach\bin\Release\kursach.pdb"; DestDir: "{app}"; Flags: ignoreversion
 ; NOTE: Don't use "Flags: ignoreversion" on any shared system files
 
 
